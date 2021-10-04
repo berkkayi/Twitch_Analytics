@@ -1,3 +1,4 @@
 chat.log
 .env
 .idea/
+mongo_volume/
