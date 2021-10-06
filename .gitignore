@@ -2,3 +2,5 @@ chat.log
 .env
 .idea/
 mongo_volume/
+__pycache__/
+pymongo_example.py
